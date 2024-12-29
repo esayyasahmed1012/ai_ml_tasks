@@ -1,0 +1,6 @@
+[core]
+    remote = local_storage
+['remote "localstorage"']
+    url = /path/to/your/local/storage
+['remote "local_storage"']
+    url = C:\Users\esayyasahmed\Desktop\dvc_storage
